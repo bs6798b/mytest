@@ -1,2 +1,2 @@
 # mytest
-Test repository
+This is a test repository. The author is Blaine Smith.
